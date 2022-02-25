@@ -1,0 +1,26 @@
+{
+ "student_details":[
+  {
+  "Roll": 1001,
+  "class": 10,
+  "firstname": "Priska",
+  "lastname": "Kashyap",
+  "section": "A"
+  },
+  {
+  "Roll": 1002,
+  "class": 10,
+  "firstname": "John",
+  "lastname": "Smith",
+  "section": "B"
+  },
+  {
+  "Roll": 1003,
+  "class": 10,
+  "firstname": "Aditya",
+  "lastname": "Roi",
+  "section": "A"
+  }
+ ]
+}
+
